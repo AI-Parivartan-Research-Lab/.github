@@ -5,8 +5,8 @@
 </p>
 
   [![Website](https://img.shields.io/badge/Website-aiparivartanresearchlab.space-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aiparivartanresearchlab.com/)
-  [![HuggingFace](https://img.shields.io/badge/HuggingFace-aiparivartanresearchlab--ai-orange?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/AiParivartanResearchLab)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-aiparivartanresearchlab--ai-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/showcase/ai-parivartan/?viewAsMember=true)
+  [![HuggingFace](https://img.shields.io/badge/HuggingFace-aiparivartanresearchlab---orange?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/AiParivartanResearchLab)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-aiparivartanresearchlab---blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/showcase/ai-parivartan/?viewAsMember=true)
   [![Email](https://img.shields.io/badge/Email-info%40aiparivartanresearchlab.space-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@aiparivartanresearchlab.com)
 </div>
 
